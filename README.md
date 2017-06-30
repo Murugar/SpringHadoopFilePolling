@@ -1,0 +1,2 @@
+# SpringHadoopFilePolling
+Spring Integration Hadoop 
